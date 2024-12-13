@@ -25,6 +25,6 @@ class Calculator:
 
     def modulus(self, a, b):
         """Calculates the modulus of two numbers and returns the result."""
-        def multiply(self, base):
-    return self * base
+    def multiply(self, base):
+        return self * base
 
